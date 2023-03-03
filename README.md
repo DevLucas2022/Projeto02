@@ -1,3 +1,3 @@
 # Projeto02
 
-Projeto da Faculdade 
+Clonando rotas e visuais da página da faculdade 
